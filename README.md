@@ -18,10 +18,8 @@ watch the results in the right.
 
 Here we can see some screenshots taken of the page | Here we can see some screenshots taken of the page
 
-Desktop Version
-![alt text](https://i.imgur.com/pSliP7X.jpg)
 
-Mobile Version
+![alt text](https://i.imgur.com/pSliP7X.jpg)
 ![alt text](https://i.imgur.com/xykL1cT.jpg)
 
 ## License
